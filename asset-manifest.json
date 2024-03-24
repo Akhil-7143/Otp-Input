@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Otp-Input/static/css/main.095204ba.css",
+    "main.js": "/Otp-Input/static/js/main.44246d2f.js",
+    "static/js/488.7d15c1b8.chunk.js": "/Otp-Input/static/js/488.7d15c1b8.chunk.js",
+    "index.html": "/Otp-Input/index.html",
+    "main.095204ba.css.map": "/Otp-Input/static/css/main.095204ba.css.map",
+    "main.44246d2f.js.map": "/Otp-Input/static/js/main.44246d2f.js.map",
+    "488.7d15c1b8.chunk.js.map": "/Otp-Input/static/js/488.7d15c1b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.095204ba.css",
+    "static/js/main.44246d2f.js"
+  ]
+}
