@@ -1,0 +1,24 @@
+.input-container{
+    display:flex ;
+    width:100%;
+
+}
+.otp-input{
+    height: 33px;
+    width: 33px;
+    border-radius: 3px;
+    text-align: center;
+    margin: 6px;
+    font-size: 12px; 
+    border: 1px solid rgba(0, 0, 0, 0.662);
+    
+}
+.otp-input:focus{
+    height: 37px;
+    width: 37px;
+    border-radius: 3px;
+    text-align: center;
+    margin: 6px;
+    font-size: 12px;
+    border:2px solid rgba(4, 197, 155, 0.662)
+}
